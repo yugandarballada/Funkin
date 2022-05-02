@@ -39,7 +39,7 @@ After Doing That
 Install The Things That Needed In The Command Prompt
 - haxelib install lime 
 -    haxelib install openfl
- -     haxelib install flixel
+-  haxelib install flixel
 -    haxelib install flixel-tools
 - haxelib install flixel-ui
 -  haxelib install hscript
@@ -57,7 +57,7 @@ Install The Things That Needed In The Command Prompt
 - lime rebuild extension-webm
 
 
-Thare U Go! Type *'lime test windows'* in cmd that's it.
+Thare U Go! Type *lime test windows* in cmd that's it.
 
 
 
