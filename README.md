@@ -71,15 +71,9 @@ If You Wanna Debug Lime Test Windows Then Type
 If There Is A Small Errors Then I'll Show You A Small Workaround That Is Very Simple
 Create A New File Called `APIStuff.hx`
 
-Copy The Script
-`package;
-
-class APIStuff
-{
-	public static var API:String = "";
-	public static var EncKey:String = "";
-}
-`
+Go To The OG Github Link
+And Find The Code There.
+https://github.com/ninjamuffin99/Funkin
 
 
 
