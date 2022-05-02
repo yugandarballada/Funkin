@@ -59,7 +59,8 @@ Install The Things That Needed In The Command Prompt
 
 Thare U Go! Type  `lime test windows ` in cmd 
 
-[p4](https://user-images.githubusercontent.com/104766454/166240517-ec725c36-4255-40b0-9019-6b0ae81d6e5e.png)
+![p4](https://user-images.githubusercontent.com/104766454/166240814-08ef4876-0dff-48a3-98db-418163248137.png)
+
 
 
 
