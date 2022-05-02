@@ -68,6 +68,19 @@ If You Wanna Debug Lime Test Windows Then Type
 
 ![p5](https://user-images.githubusercontent.com/104766454/166244058-2f3d76d7-9b96-4d6e-8d39-606a4389c243.png)
 
+If There Is A Small Errors Then I'll Show You A Small Workaround That Is Very Simple
+Create A New File Called `APIStuff.hx`
+
+Copy The Script
+`package;
+
+class APIStuff
+{
+	public static var API:String = "";
+	public static var EncKey:String = "";
+}
+`
+
 
 
 
