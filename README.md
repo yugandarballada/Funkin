@@ -61,6 +61,13 @@ Thare U Go! Type  `lime test windows` in cmd
 
 ![p4](https://user-images.githubusercontent.com/104766454/166240814-08ef4876-0dff-48a3-98db-418163248137.png)
 
+If You Wanna Debug Lime Test Windows Then Type
+`lime test windows -debug`
+
+![p5](https://user-images.githubusercontent.com/104766454/166244058-2f3d76d7-9b96-4d6e-8d39-606a4389c243.png)
+
+
+
 
 
 
