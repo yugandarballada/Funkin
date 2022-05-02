@@ -57,7 +57,7 @@ Install The Things That Needed In The Command Prompt
 - lime rebuild extension-webm
 
 
-Thare U Go! Type  `lime test windows ` in cmd 
+Thare U Go! Type  `lime test windows` in cmd 
 
 ![p4](https://user-images.githubusercontent.com/104766454/166240814-08ef4876-0dff-48a3-98db-418163248137.png)
 
